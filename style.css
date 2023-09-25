@@ -1,0 +1,15 @@
+body  {
+font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.kiri {
+    width: 50%;
+}
+
+.kanan {
+    width: 50%;
+}
